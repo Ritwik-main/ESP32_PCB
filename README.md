@@ -1,5 +1,5 @@
 # ESP32_PCB
-![Uploading DesignESP32PCB.png…]()
+<img width="1920" height="813" alt="DesignESP32PCB" src="https://github.com/user-attachments/assets/b2437b07-673d-4558-be19-b8f0aebf503e" />
 
 # A pcb using espressif ESP32-S3-DEV
 This project involves making a devboard using the ESP32-s3 module by Espressif.
